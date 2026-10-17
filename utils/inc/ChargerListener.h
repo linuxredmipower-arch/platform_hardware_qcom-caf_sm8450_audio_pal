@@ -30,12 +30,14 @@
 #define _CHARGER_LISTENER_H_
 
 #include <sys/epoll.h>
+#include <functional>
+#include <mutex>
+#include <thread>
 #ifdef ANDROID
 #include <bits/epoll_event.h>
 #else
 #include <fcntl.h>
 #include <cstring>
-#include <functional>
 #endif
 
 #define MAX_EVENTS 3
