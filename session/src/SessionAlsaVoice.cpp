@@ -65,6 +65,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 #define LOG_TAG "PAL: SessionAlsaVoice"
 
+#include <memory>
 #include "SessionAlsaVoice.h"
 #include "SessionAlsaUtils.h"
 #include "Stream.h"

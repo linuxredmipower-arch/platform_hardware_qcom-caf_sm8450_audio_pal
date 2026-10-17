@@ -31,6 +31,7 @@
 #ifndef SPEAKER_PROT
 #define SPEAKER_PROT
 
+#include <memory>
 #include "Device.h"
 #include "sp_vi.h"
 #include "sp_rx.h"

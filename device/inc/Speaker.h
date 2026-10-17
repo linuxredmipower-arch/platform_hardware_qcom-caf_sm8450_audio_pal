@@ -30,6 +30,7 @@
 #ifndef SPEAKER_H
 #define SPEAKER_H
 
+#include <memory>
 #include "Device.h"
 #include "PalAudioRoute.h"
 

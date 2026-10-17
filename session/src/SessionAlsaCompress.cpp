@@ -33,6 +33,8 @@
 
 #define LOG_TAG "PAL: SessionAlsaCompress"
 
+#include <memory>
+#include <thread>
 #include "SessionAlsaCompress.h"
 #include "SessionAlsaUtils.h"
 #include "Stream.h"

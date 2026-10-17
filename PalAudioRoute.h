@@ -62,6 +62,7 @@
 #ifndef AUDIO_HW
 #define AUDIO_HW
 
+#include <mutex>
 #include "audio_route/audio_route.h"
 
 static std::mutex audio_route_mutex;

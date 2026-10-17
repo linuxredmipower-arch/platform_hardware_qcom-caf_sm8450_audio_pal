@@ -29,6 +29,7 @@
 
 #define LOG_TAG "PAL: RTProxy"
 #define LOG_TAG_OUT "PAL: RTProxyOut"
+#include <memory>
 #include "RTProxy.h"
 #include "ResourceManager.h"
 #include "Device.h"

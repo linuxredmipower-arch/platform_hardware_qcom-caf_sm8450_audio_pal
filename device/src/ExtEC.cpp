@@ -28,6 +28,7 @@
  */
 
 #define LOG_TAG "PAL: ExtEC"
+#include <memory>
 #include "ExtEC.h"
 #include "ResourceManager.h"
 #include "Device.h"

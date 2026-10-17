@@ -33,6 +33,8 @@
 
 #define LOG_TAG "PAL: StreamSensorPCMData"
 
+#include <memory>
+#include <mutex>
 #include "StreamSensorPCMData.h"
 #include "Session.h"
 #include "kvh2xml.h"

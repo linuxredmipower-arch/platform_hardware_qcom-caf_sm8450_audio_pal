@@ -28,6 +28,8 @@
  */
 
 #define LOG_TAG "PAL: SndMonitor"
+#include <memory>
+#include <thread>
 #include <stdlib.h>
 #include <unistd.h>
 #include <sys/stat.h>

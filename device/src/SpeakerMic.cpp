@@ -29,6 +29,7 @@
 
 #define LOG_TAG "PAL: SpeakerMic"
 
+#include <memory>
 #include "SpeakerMic.h"
 #include <tinyalsa/asoundlib.h>
 #include "PalAudioRoute.h"

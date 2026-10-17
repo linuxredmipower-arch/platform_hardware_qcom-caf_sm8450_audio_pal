@@ -34,6 +34,7 @@
 #ifndef SESSION_ALSAUTILS_H
 #define SESSION_ALSAUTILS_H
 
+#include <memory>
 #include "Session.h"
 #include "ResourceManager.h"
 #include "PayloadBuilder.h"

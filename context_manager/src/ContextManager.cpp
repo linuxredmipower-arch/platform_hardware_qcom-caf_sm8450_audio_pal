@@ -27,6 +27,9 @@
  * IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#include <memory>
+#include <thread>
+#include <mutex>
 #include <iostream>
 #include <chrono>
 #include "ContextManager.h"

@@ -30,6 +30,8 @@
 
 #define LOG_TAG "StreamInCall"
 
+#include <memory>
+#include <mutex>
 #include "StreamInCall.h"
 #include "Session.h"
 #include "kvh2xml.h"

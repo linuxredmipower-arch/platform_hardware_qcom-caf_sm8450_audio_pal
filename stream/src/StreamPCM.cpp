@@ -33,6 +33,8 @@
 
 #define LOG_TAG "PAL: StreamPCM"
 
+#include <memory>
+#include <mutex>
 #include "StreamPCM.h"
 #include "Session.h"
 #include "kvh2xml.h"

@@ -34,6 +34,7 @@
 #ifndef STREAMPCM_H_
 #define STREAMPCM_H_
 
+#include <memory>
 #include "Stream.h"
 
 class ResourceManager;

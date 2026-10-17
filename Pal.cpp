@@ -33,6 +33,7 @@
 
 #define LOG_TAG "PAL: API"
 
+#include <memory>
 #include <set>
 #include <unistd.h>
 #include <stdlib.h>

@@ -30,6 +30,7 @@
 #ifndef FM_DEVICE_H
 #define FM_DEVICE_H
 
+#include <memory>
 #include "Device.h"
 #include "PalAudioRoute.h"
 

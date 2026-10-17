@@ -33,6 +33,8 @@
 
 #define LOG_TAG "PAL: SessionAlsaPcm"
 
+#include <memory>
+#include <mutex>
 #include "SessionAlsaPcm.h"
 #include "SessionAlsaUtils.h"
 #include "Stream.h"

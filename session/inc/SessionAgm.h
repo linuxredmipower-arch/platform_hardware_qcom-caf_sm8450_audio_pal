@@ -31,6 +31,8 @@
 #define SESSION_AGM_H
 
 
+#include <memory>
+#include <mutex>
 #include "Session.h"
 
 #include "ResourceManager.h"

@@ -34,6 +34,7 @@
 #ifndef STREAMULTRASOUND_H_
 #define STREAMULTRASOUND_H_
 
+#include <memory>
 #include "StreamCommon.h"
 #include "ResourceManager.h"
 #include "Device.h"

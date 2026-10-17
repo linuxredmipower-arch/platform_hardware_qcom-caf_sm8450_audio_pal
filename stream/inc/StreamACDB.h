@@ -63,6 +63,7 @@
 #ifndef STREAMTUNNEL_H_
 #define STREAMTUNNEL_H_
 
+#include <memory>
 #include "Stream.h"
 
 class ResourceManager;

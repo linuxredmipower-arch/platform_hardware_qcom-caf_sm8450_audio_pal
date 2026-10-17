@@ -32,6 +32,7 @@
  */
 
 #define LOG_TAG "PAL: Headphone"
+#include <memory>
 #include "Headphone.h"
 #include "ResourceManager.h"
 #include "Device.h"

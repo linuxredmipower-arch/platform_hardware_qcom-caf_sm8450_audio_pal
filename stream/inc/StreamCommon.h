@@ -30,6 +30,7 @@
 #ifndef STREAMCOMMON_H_
 #define STREAMCOMMON_H_
 
+#include <memory>
 #include "Stream.h"
 
 #define GET_DIR_STR(X) (X == PAL_AUDIO_OUTPUT)? "RX": (X == PAL_AUDIO_INPUT)? "TX": "TX_RX"

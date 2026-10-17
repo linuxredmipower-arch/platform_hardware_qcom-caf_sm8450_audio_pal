@@ -30,6 +30,7 @@
 #ifndef StreamSensorPCMData_H_
 #define StreamSensorPCMData_H_
 
+#include <memory>
 #include "StreamCommon.h"
 #include "ACDPlatformInfo.h"
 #include "ResourceManager.h"

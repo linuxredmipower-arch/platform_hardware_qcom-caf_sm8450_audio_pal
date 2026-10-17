@@ -28,6 +28,7 @@
  */
 
 #define LOG_TAG "PAL: UltrasoundDevice"
+#include <memory>
 #include "UltrasoundDevice.h"
 #include "ResourceManager.h"
 #include "Device.h"

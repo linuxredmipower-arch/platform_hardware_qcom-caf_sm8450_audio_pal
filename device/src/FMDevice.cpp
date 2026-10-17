@@ -28,6 +28,7 @@
  */
 
 #define LOG_TAG "PAL: FMDevice"
+#include <memory>
 #include "ResourceManager.h"
 #include "FMDevice.h"
 #include "Device.h"

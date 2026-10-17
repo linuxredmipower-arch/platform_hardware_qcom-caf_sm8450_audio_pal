@@ -35,6 +35,7 @@
 #define ANDROID_SYSTEM_pal_V1_0_pal_H
 
 
+#include <memory>
 #include <vendor/qti/hardware/pal/1.0/IPALCallback.h>
 #include <vendor/qti/hardware/pal/1.0/IPAL.h>
 #include <hidl/MQDescriptor.h>

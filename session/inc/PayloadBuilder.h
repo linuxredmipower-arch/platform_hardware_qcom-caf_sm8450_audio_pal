@@ -34,6 +34,7 @@
 #ifndef PAYLOAD_BUILDER_H_
 #define PAYLOAD_BUILDER_H_
 
+#include <memory>
 #include "PalDefs.h"
 #include "gsl_intf.h"
 #include "kvh2xml.h"

@@ -29,6 +29,7 @@
 
 #define LOG_TAG "StreamContextProxy"
 
+#include <memory>
 #include "StreamContextProxy.h"
 #include "Session.h"
 #include "SessionAlsaPcm.h"

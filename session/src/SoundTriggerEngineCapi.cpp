@@ -31,6 +31,9 @@
 #define ATRACE_TAG (ATRACE_TAG_AUDIO | ATRACE_TAG_HAL)
 #define LOG_TAG "PAL: SoundTriggerEngineCapi"
 
+#include <memory>
+#include <thread>
+#include <mutex>
 #include "SoundTriggerEngineCapi.h"
 
 #include <cutils/trace.h>

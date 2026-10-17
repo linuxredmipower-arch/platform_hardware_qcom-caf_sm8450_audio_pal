@@ -62,6 +62,7 @@
 
 #define LOG_TAG "PAL: StreamACDB"
 
+#include <memory>
 #include "StreamACDB.h"
 #include "Session.h"
 #include "kvh2xml.h"

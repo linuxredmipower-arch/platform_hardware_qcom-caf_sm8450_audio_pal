@@ -29,6 +29,7 @@
 
 #define LOG_TAG "PAL: SessionAgm"
 
+#include <memory>
 #include "SessionAgm.h"
 #include "SessionAlsaUtils.h"
 #include "Stream.h"

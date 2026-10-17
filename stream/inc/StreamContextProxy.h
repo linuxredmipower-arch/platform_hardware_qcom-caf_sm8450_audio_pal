@@ -30,6 +30,7 @@
 #ifndef STREAMCONTEXTPROXY_H_
 #define STREAMCONTEXTPROXY_H_
 
+#include <memory>
 #include "StreamCommon.h"
 
 class ResourceManager;

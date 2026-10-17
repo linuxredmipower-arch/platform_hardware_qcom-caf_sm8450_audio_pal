@@ -29,6 +29,7 @@
 
 #define LOG_TAG "PAL: SoundTriggerEngine"
 
+#include <memory>
 #include "SoundTriggerEngine.h"
 
 #include "SoundTriggerEngineGsl.h"

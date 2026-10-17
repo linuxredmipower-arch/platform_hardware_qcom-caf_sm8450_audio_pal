@@ -31,6 +31,7 @@
 #ifndef SOUND_TRIGGER_XML_PARSER_H
 #define SOUND_TRIGGER_XML_PARSER_H
 
+#include <memory>
 #include "PalDefs.h"
 
 #define CAPTURE_PROFILE_PRIORITY_HIGH 1

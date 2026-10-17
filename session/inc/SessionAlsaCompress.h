@@ -31,6 +31,9 @@
 #define SESSION_ALSACOMPRESS_H
 
 
+#include <memory>
+#include <thread>
+#include <mutex>
 #include "Session.h"
 
 #include "ResourceManager.h"

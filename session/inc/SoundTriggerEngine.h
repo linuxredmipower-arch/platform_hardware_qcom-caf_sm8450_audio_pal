@@ -31,6 +31,7 @@
 #ifndef SOUNDTRIGGERENGINE_H
 #define SOUNDTRIGGERENGINE_H
 
+#include <memory>
 #include <condition_variable>
 #include <thread>
 #include <mutex>

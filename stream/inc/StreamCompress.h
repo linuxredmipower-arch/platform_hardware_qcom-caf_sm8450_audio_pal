@@ -34,6 +34,7 @@
 #ifndef STREAMCOMPRESS_H_
 #define STREAMCOMPRESS_H_
 
+#include <memory>
 #include "Stream.h"
 
 class ResourceManager;

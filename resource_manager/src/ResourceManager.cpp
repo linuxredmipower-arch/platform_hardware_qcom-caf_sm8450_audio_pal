@@ -32,6 +32,8 @@
  */
 
 #define LOG_TAG "PAL: ResourceManager"
+#include <memory>
+#include <functional>
 #include "ResourceManager.h"
 #include "Session.h"
 #include "Device.h"

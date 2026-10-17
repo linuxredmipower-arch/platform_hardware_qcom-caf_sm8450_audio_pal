@@ -30,6 +30,7 @@
 #ifndef HANDSET_VA_MIC_H
 #define HANDSET_VA_MIC_H
 
+#include <memory>
 #include "Device.h"
 #include "PalAudioRoute.h"
 

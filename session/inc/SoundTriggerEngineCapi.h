@@ -31,6 +31,8 @@
 #ifndef SOUNDTRIGGERENGINECAPI_H
 #define SOUNDTRIGGERENGINECAPI_H
 
+#include <memory>
+#include <mutex>
 #include "capi_v2.h"
 
 #include "SoundTriggerEngine.h"

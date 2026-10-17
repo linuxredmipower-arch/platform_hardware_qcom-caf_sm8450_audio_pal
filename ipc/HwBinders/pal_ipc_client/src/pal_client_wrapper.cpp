@@ -29,6 +29,7 @@
  */
 
 #define LOG_TAG "pal_client_wrapper"
+#include <mutex>
 #include <vendor/qti/hardware/pal/1.0/IPAL.h>
 #include <hidl/MQDescriptor.h>
 #include <hidl/Status.h>

@@ -34,6 +34,7 @@
 #ifndef SESSION_ALSAPCM_H
 #define SESSION_ALSAPCM_H
 
+#include <memory>
 #include "ResourceManager.h"
 #include "PayloadBuilder.h"
 #include "Session.h"

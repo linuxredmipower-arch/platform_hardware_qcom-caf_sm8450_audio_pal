@@ -29,6 +29,7 @@
 
 #define LOG_TAG "PAL: HandsetMic"
 
+#include <memory>
 #include "HandsetMic.h"
 #include <tinyalsa/asoundlib.h>
 #include "PalAudioRoute.h"

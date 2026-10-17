@@ -31,6 +31,9 @@
 #define LOG_TAG "PAL: SpeakerProtection"
 
 
+#include <memory>
+#include <thread>
+#include <mutex>
 #include "SpeakerProtection.h"
 #include "PalAudioRoute.h"
 #include "ResourceManager.h"

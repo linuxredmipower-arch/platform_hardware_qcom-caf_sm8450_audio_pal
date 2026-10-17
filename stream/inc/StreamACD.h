@@ -31,6 +31,9 @@
 #ifndef STREAMACD_H_
 #define STREAMACD_H_
 
+#include <memory>
+#include <thread>
+#include <mutex>
 #include <utility>
 #include <map>
 

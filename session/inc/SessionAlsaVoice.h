@@ -65,6 +65,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef SESSION_ALSAVOICE_H
 #define SESSION_ALSAVOICE_H
 
+#include <memory>
 #include "PayloadBuilder.h"
 #include "Session.h"
 #include "PalAudioRoute.h"

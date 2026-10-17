@@ -33,6 +33,8 @@
 
 #define LOG_TAG "PAL: Session"
 
+#include <memory>
+#include <mutex>
 #include "Session.h"
 #include "Stream.h"
 #include "ResourceManager.h"

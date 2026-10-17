@@ -33,6 +33,8 @@
  */
 
 #define LOG_TAG "pal_server_wrapper"
+#include <memory>
+#include <mutex>
 #include "inc/pal_server_wrapper.h"
 #include <hwbinder/IPCThreadState.h>
 

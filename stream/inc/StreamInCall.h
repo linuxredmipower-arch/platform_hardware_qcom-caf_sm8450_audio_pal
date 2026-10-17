@@ -30,6 +30,7 @@
 #ifndef STREAMINCALL_H_
 #define STREAMINCALL_H_
 
+#include <memory>
 #include "Stream.h"
 
 class ResourceManager;

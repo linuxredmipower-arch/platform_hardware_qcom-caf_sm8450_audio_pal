@@ -29,6 +29,9 @@
 
 #define LOG_TAG "PAL: StreamACD"
 
+#include <memory>
+#include <thread>
+#include <mutex>
 #include "StreamACD.h"
 
 #include <unistd.h>

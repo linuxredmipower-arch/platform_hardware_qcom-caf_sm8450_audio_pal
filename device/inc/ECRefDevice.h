@@ -33,6 +33,7 @@
 #ifndef ECREFDEVICE_H
 #define ECREFDEVICE_H
 
+#include <memory>
 #include "Device.h"
 #include <vector>
 

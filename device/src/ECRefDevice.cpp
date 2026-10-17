@@ -31,6 +31,7 @@
  */
 
 #define LOG_TAG "PAL: ECRefDevice"
+#include <memory>
 #include "ECRefDevice.h"
 #include "ResourceManager.h"
 #include "Device.h"

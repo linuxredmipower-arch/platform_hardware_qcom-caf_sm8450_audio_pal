@@ -33,6 +33,7 @@
 
 #define LOG_TAG "PAL: StreamUltraSound"
 
+#include <memory>
 #include "StreamUltraSound.h"
 #include "Session.h"
 #include "SessionAlsaPcm.h"

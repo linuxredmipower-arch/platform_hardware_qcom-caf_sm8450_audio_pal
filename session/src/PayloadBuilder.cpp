@@ -32,6 +32,7 @@
  */
 
 #define LOG_TAG "PAL: PayloadBuilder"
+#include <memory>
 #include "ResourceManager.h"
 #include "PayloadBuilder.h"
 #include "SessionGsl.h"

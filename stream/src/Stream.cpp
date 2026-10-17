@@ -61,6 +61,8 @@
  */
 
 #define LOG_TAG "PAL: Stream"
+#include <memory>
+#include <mutex>
 #include <semaphore.h>
 #include "Stream.h"
 #include "StreamPCM.h"

@@ -35,6 +35,7 @@
 #ifndef SIGNAL_HANDLER_H
 #define SIGNAL_HANDLER_H
 
+#include <mutex>
 #include <functional>
 #include <future>
 #include <memory>

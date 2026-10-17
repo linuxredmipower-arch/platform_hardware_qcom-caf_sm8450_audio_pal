@@ -29,6 +29,7 @@
  */
 
 #define LOG_TAG "PAL: Handset"
+#include <memory>
 #include "Handset.h"
 #include "ResourceManager.h"
 #include "Device.h"

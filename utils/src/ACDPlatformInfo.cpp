@@ -28,6 +28,7 @@
  * IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#include <memory>
 #include "ACDPlatformInfo.h"
 
 #include <errno.h>

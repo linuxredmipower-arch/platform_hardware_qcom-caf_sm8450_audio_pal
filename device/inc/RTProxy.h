@@ -30,6 +30,7 @@
 #ifndef RTPROXY_H
 #define RTPROXY_H
 
+#include <memory>
 #include "Device.h"
 #include "PalAudioRoute.h"
 

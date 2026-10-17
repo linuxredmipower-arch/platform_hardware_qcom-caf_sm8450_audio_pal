@@ -29,6 +29,7 @@
  */
 
 #define LOG_TAG "PAL: USB"
+#include <memory>
 #include "USBAudio.h"
 
 #include <cstdio>

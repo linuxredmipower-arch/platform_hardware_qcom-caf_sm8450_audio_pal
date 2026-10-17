@@ -30,6 +30,9 @@
 #define ATRACE_TAG (ATRACE_TAG_AUDIO | ATRACE_TAG_HAL)
 #define LOG_TAG "PAL: ACDEngine"
 
+#include <memory>
+#include <thread>
+#include <mutex>
 #include "ACDEngine.h"
 
 #include <cmath>

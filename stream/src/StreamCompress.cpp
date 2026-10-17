@@ -30,6 +30,8 @@
  */
 
 #define LOG_TAG "PAL: StreamCompress"
+#include <memory>
+#include <mutex>
 #include "StreamCompress.h"
 #include "Session.h"
 #include "SessionAlsaPcm.h"

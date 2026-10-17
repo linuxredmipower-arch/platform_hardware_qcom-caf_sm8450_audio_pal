@@ -29,6 +29,8 @@
 
 
 #ifdef LINUX_ENABLED
+#include <memory>
+#include <mutex>
 #include <algorithm>
 #endif
 #include "PalRingBuffer.h"

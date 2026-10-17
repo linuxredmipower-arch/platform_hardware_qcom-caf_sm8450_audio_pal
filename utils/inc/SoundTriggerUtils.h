@@ -30,6 +30,7 @@
 #ifndef SOUND_TRIGGER_UTILS_H
 #define SOUND_TRIGGER_UTILS_H
 
+#include <memory>
 #include "PalDefs.h"
 #include "ListenSoundModelLib.h"
 

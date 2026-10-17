@@ -33,6 +33,7 @@
 #define RXDIR 0
 #define TXDIR 1
 
+#include <memory>
 #include "StreamCommon.h"
 #include "Session.h"
 #include "kvh2xml.h"

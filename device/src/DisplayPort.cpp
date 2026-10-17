@@ -33,6 +33,7 @@
  */
 
 #define LOG_TAG "PAL: DisplayPort"
+#include <memory>
 #include "DisplayPort.h"
 #include "SessionAlsaUtils.h"
 #include "ResourceManager.h"

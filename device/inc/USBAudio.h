@@ -64,6 +64,7 @@
 #ifndef USB_H
 #define USB_H
 
+#include <memory>
 #include "Device.h"
 #include "ResourceManager.h"
 #include "PalAudioRoute.h"

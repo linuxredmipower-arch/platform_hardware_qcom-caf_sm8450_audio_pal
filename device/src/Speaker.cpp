@@ -28,6 +28,7 @@
  */
 
 #define LOG_TAG "PAL: Speaker"
+#include <memory>
 #include "Speaker.h"
 #include "ResourceManager.h"
 #include "SpeakerProtection.h"

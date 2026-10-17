@@ -30,6 +30,7 @@
 #ifndef ULTRASOUNDDEVICE_H
 #define ULTRASOUNDDEVICE_H
 
+#include <memory>
 #include "Device.h"
 //Ultrasound_device(RX)
 

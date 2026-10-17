@@ -30,6 +30,7 @@
 #ifndef HapticsDev_H
 #define HapticsDev_H
 
+#include <memory>
 #include "Device.h"
 
 class HapticsDev : public Device

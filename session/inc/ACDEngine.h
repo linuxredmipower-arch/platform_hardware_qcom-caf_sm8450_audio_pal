@@ -31,6 +31,7 @@
 #ifndef ACDENGINE_H
 #define ACDENGINE_H
 
+#include <memory>
 #include <map>
 
 #include "ContextDetectionEngine.h"

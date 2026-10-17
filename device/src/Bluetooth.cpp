@@ -32,6 +32,7 @@
  */
 
 #define LOG_TAG "PAL: Bluetooth"
+#include <memory>
 #include "Bluetooth.h"
 #include "ResourceManager.h"
 #include "PayloadBuilder.h"

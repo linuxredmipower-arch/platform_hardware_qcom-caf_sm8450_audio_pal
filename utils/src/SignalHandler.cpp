@@ -35,6 +35,9 @@
 //#define LOG_NDEBUG 0
 #define LOG_TAG "PAL: SignalHandler"
 
+#include <memory>
+#include <mutex>
+#include <functional>
 #include <log/log.h>
 #include <chrono>
 #include "SignalHandler.h"

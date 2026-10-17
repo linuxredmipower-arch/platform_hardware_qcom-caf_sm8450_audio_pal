@@ -28,6 +28,7 @@
  */
 
 #define LOG_TAG "PAL: HapticsDev"
+#include <memory>
 #include "HapticsDev.h"
 #include "ResourceManager.h"
 #include "Device.h"

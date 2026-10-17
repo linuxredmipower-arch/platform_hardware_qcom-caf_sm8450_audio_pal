@@ -30,6 +30,7 @@
 #ifndef HEADPHONE_H
 #define HEADPHONE_H
 
+#include <memory>
 #include "Device.h"
 #include "PalAudioRoute.h"
 

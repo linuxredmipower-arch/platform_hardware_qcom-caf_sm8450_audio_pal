@@ -29,6 +29,7 @@
 
 #ifndef SNDCARD_MONITOR_H
 #define SNDCARD_MONITOR_H
+#include <thread>
 #include <list>
 #include "PalDefs.h"
 

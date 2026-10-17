@@ -30,6 +30,7 @@
 #ifndef DISPLAYPORT_H
 #define DISPLAYPORT_H
 
+#include <memory>
 #include "Device.h"
 #include "PalAudioRoute.h"
 #include "PalDefs.h"

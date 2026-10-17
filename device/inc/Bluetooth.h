@@ -34,6 +34,7 @@
 #ifndef _BLUETOOTH_H_
 #define _BLUETOOTH_H_
 
+#include <memory>
 #include "Device.h"
 #include <tinyalsa/asoundlib.h>
 #include <bt_intf.h>

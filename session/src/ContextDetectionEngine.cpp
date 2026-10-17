@@ -29,6 +29,8 @@
 
 #define LOG_TAG "PAL: ContextDetectionEngine"
 
+#include <memory>
+#include <mutex>
 #include "ContextDetectionEngine.h"
 
 #include "ACDEngine.h"

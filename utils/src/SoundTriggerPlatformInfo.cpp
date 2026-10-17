@@ -59,6 +59,7 @@
  * IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#include <memory>
 #include "SoundTriggerPlatformInfo.h"
 
 #include <errno.h>

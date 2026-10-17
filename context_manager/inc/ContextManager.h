@@ -29,6 +29,8 @@
 #ifndef CONTEXTMANAGER_H
 #define CONTEXTMANAGER_H
 
+#include <memory>
+#include <mutex>
 #include <vector>
 #include <thread>
 #include <queue>

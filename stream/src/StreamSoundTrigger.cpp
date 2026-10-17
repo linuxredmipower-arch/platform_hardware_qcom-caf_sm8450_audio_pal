@@ -61,6 +61,9 @@
 
 #define LOG_TAG "PAL: StreamSoundTrigger"
 
+#include <memory>
+#include <thread>
+#include <mutex>
 #include "StreamSoundTrigger.h"
 
 #include <chrono>

@@ -30,6 +30,7 @@
 #ifndef HEADSETMIC_H
 #define HEADSETMIC_H
 
+#include <memory>
 #include "Device.h"
 
 class HeadsetMic : public Device

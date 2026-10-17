@@ -32,6 +32,7 @@
 
 #define BUFF_FLAG_EOS 0x1
 
+#include <memory>
 #include "gsl_intf.h"
 #include "Session.h"
 #include <dlfcn.h>

@@ -30,6 +30,7 @@
 #ifndef SPEAKERMIC_H
 #define SPEAKERMIC_H
 
+#include <memory>
 #include "Device.h"
 #include "Device.h"
 

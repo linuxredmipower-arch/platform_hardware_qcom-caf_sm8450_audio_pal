@@ -31,6 +31,8 @@
 #ifndef SOUNDTRIGGERENGINEGSL_H
 #define SOUNDTRIGGERENGINEGSL_H
 
+#include <memory>
+#include <mutex>
 #include <map>
 
 #include "SoundTriggerEngine.h"

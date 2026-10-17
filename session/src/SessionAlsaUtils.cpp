@@ -33,6 +33,7 @@
 
 #define LOG_TAG "PAL: SessionAlsaUtils"
 
+#include <memory>
 #include "SessionAlsaUtils.h"
 
 #include <sstream>

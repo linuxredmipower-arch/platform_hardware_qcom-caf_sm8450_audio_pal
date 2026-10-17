@@ -30,6 +30,7 @@
 #ifndef HANDSET_H
 #define HANDSET_H
 
+#include <memory>
 #include "Device.h"
 
 class Handset : public Device

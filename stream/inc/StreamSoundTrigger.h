@@ -31,6 +31,9 @@
 #ifndef STREAMSOUNDTRIGGER_H_
 #define STREAMSOUNDTRIGGER_H_
 
+#include <memory>
+#include <thread>
+#include <mutex>
 #include <utility>
 #include <map>
 

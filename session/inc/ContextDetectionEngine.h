@@ -31,6 +31,7 @@
 #ifndef CONTEXT_DETECTION_ENGINE_H
 #define CONTEXT_DETECTION_ENGINE_H
 
+#include <memory>
 #include <condition_variable>
 #include <thread>
 #include <mutex>

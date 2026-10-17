@@ -30,6 +30,7 @@
 #ifndef EXTEC_H
 #define EXTEC_H
 
+#include <memory>
 #include "Device.h"
 #include "PalAudioRoute.h"
 
